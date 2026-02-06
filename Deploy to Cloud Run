@@ -1,0 +1,1 @@
+gcloud run deploy inventory-backend --image gcr.io/[PROJECT-ID]/inventory-backend --platform managed
